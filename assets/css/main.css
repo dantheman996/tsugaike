@@ -29,7 +29,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
         body {
-            background-image: url('ski-resort-hakuba_8.jpg');
+            background-image: src="ski-resort-hakuba_8.jpg";
             background-size: cover; 
             background-position: center; 
             background-repeat: no-repeat;
